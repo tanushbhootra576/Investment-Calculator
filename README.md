@@ -28,7 +28,7 @@ This app helps users visualize how their investments grow over time with compoun
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/investment-calculator.git
+git clone
 cd investment-calculator
 npm install
 npm run dev
